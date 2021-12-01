@@ -18,7 +18,7 @@ from collections.abc import Iterable
 
 
 class DataSource(Iterable):
-    """Base class of data source1
+    """Base class of data sourcea
     """
 
 
