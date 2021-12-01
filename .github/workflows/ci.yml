@@ -1,6 +1,6 @@
 name: Test and Publish
 on: 
-  workflow
+  workflow_dispatch:
   push:      
     branches:
       - main
